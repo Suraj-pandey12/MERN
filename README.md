@@ -1,3 +1,3 @@
 # MERN
 This is my MERN Stack project.
-Author name- Suraj Kumar Pandey
+Author name- Suraj Pandey
